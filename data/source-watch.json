@@ -1,0 +1,58 @@
+{
+  "rsa": {
+    "url": "https://www.service-public.fr/particuliers/vosdroits/F19778",
+    "title": "RSA",
+    "status": "error",
+    "checkedAt": "2026-10-16",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  "prime": {
+    "url": "https://www.service-public.fr/particuliers/vosdroits/F2882",
+    "title": "Prime d'activité",
+    "status": "error",
+    "checkedAt": "2026-10-16",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  "logement": {
+    "url": "https://www.service-public.fr/particuliers/vosdroits/F12006",
+    "title": "Aides au logement",
+    "status": "error",
+    "checkedAt": "2026-10-16",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  "famille": {
+    "url": "https://www.service-public.fr/particuliers/vosdroits/F13213",
+    "title": "Allocations familiales",
+    "status": "error",
+    "checkedAt": "2026-10-16",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  "ars": {
+    "url": "https://www.service-public.fr/particuliers/vosdroits/F1878",
+    "title": "Allocation de rentrée scolaire",
+    "status": "error",
+    "checkedAt": "2026-10-16",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  "css": {
+    "url": "https://www.service-public.fr/particuliers/vosdroits/F10027",
+    "title": "Complémentaire santé solidaire",
+    "status": "error",
+    "checkedAt": "2026-10-16",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  "etrangers": {
+    "url": "https://www.service-public.fr/particuliers/vosdroits/N19804",
+    "title": "Droits et démarches des étrangers",
+    "status": "error",
+    "checkedAt": "2026-10-16",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  },
+  "impots": {
+    "url": "https://www.impots.gouv.fr/particulier",
+    "title": "Impôts",
+    "status": "error",
+    "checkedAt": "2026-10-16",
+    "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+  }
+}

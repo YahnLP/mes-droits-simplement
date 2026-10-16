@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "provider": "OpenFisca-France",
+  "providerInfo": "https://github.com/openfisca/openfisca-france",
+  "notice": "En attente de la première synchronisation GitHub Actions. Aucun montant OpenFisca n'est préchargé.",
+  "parameters": {}
+}

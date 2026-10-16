@@ -1,0 +1,366 @@
+{
+  "logement": {
+    "fr": {
+      "title": "Aide pour payer le loyer",
+      "why": "Vous payez un loyer. Une aide peut réduire votre dépense de logement.",
+      "prepare": "Préparez votre loyer, votre adresse et vos revenus.",
+      "action": "Demandez une simulation à la CAF ou à la MSA."
+    },
+    "en": {
+      "title": "Help with rent",
+      "why": "You pay rent. You may get help with housing costs.",
+      "prepare": "Prepare your rent amount, address and income.",
+      "action": "Ask CAF or MSA to check your situation."
+    },
+    "es": {
+      "title": "Ayuda para el alquiler",
+      "why": "Pagas alquiler. Una ayuda puede reducir el coste de tu vivienda.",
+      "prepare": "Prepara el alquiler, la dirección y los ingresos.",
+      "action": "Pide a CAF o MSA que compruebe tu situación."
+    },
+    "ar": {
+      "title": "مساعدة الإيجار",
+      "why": "تدفع إيجارًا. قد تحصل على مساعدة لتكاليف السكن.",
+      "prepare": "جهز مبلغ الإيجار والعنوان والدخل.",
+      "action": "اطلب من CAF أو MSA مراجعة وضعك."
+    }
+  },
+  "rsa": {
+    "fr": {
+      "title": "Un revenu minimum",
+      "why": "Si vous avez peu de ressources, une aide peut compléter votre argent.",
+      "prepare": "Préparez les revenus du foyer et les documents de séjour utiles.",
+      "action": "Parlez du RSA à votre CAF ou MSA."
+    },
+    "en": {
+      "title": "Minimum income support",
+      "why": "If you have little money, support may help with living costs.",
+      "prepare": "Prepare household income and any relevant residence documents.",
+      "action": "Ask CAF or MSA about RSA."
+    },
+    "es": {
+      "title": "Ingreso mínimo",
+      "why": "Si tienes pocos recursos, una ayuda puede complementar tus ingresos.",
+      "prepare": "Prepara los ingresos del hogar y documentos de residencia pertinentes.",
+      "action": "Pregunta por el RSA en CAF o MSA."
+    },
+    "ar": {
+      "title": "مساعدة الحد الأدنى للدخل",
+      "why": "إذا كان دخلك منخفضًا، فقد تحصل على دعم.",
+      "prepare": "جهز دخل الأسرة ووثائق الإقامة ذات الصلة.",
+      "action": "اسأل CAF أو MSA عن RSA."
+    }
+  },
+  "prime": {
+    "fr": {
+      "title": "Une aide quand vous travaillez",
+      "why": "Même avec un emploi, vous pouvez avoir droit à une aide. Exemple : emploi saisonnier ou temps partiel.",
+      "prepare": "Préparez vos fiches de paie et vos revenus récents.",
+      "action": "Demandez une étude de la prime d’activité."
+    },
+    "en": {
+      "title": "Support while working",
+      "why": "You may get support even if you work. Example: seasonal or part-time work.",
+      "prepare": "Prepare payslips and recent income.",
+      "action": "Ask about the in-work benefit."
+    },
+    "es": {
+      "title": "Ayuda si trabajas",
+      "why": "Puedes recibir ayuda aunque trabajes. Ejemplo: temporada o jornada parcial.",
+      "prepare": "Prepara nóminas e ingresos recientes.",
+      "action": "Pregunta por la prima de actividad."
+    },
+    "ar": {
+      "title": "مساعدة أثناء العمل",
+      "why": "قد تحصل على دعم حتى لو كنت تعمل، مثل العمل الموسمي.",
+      "prepare": "جهز كشوف الرواتب والدخل الأخير.",
+      "action": "اسأل عن علاوة النشاط."
+    }
+  },
+  "famille": {
+    "fr": {
+      "title": "Une aide pour les familles",
+      "why": "Si vous avez au moins deux enfants à charge, regardez cette aide.",
+      "prepare": "Préparez les âges des enfants et les revenus du foyer.",
+      "action": "Demandez à la CAF ou à la MSA de vérifier."
+    },
+    "en": {
+      "title": "Support for families",
+      "why": "If you support at least two children, check this benefit.",
+      "prepare": "Prepare children’s ages and household income.",
+      "action": "Ask CAF or MSA to check."
+    },
+    "es": {
+      "title": "Ayuda para familias",
+      "why": "Si tienes al menos dos hijos a cargo, consulta esta ayuda.",
+      "prepare": "Prepara edades e ingresos familiares.",
+      "action": "Pide una comprobación a CAF o MSA."
+    },
+    "ar": {
+      "title": "مساعدة للعائلات",
+      "why": "إذا كنت تعول طفلين على الأقل، تحقق من هذه المساعدة.",
+      "prepare": "جهز أعمار الأطفال ودخل الأسرة.",
+      "action": "اطلب التحقق من CAF أو MSA."
+    }
+  },
+  "ars": {
+    "fr": {
+      "title": "Allocation de rentrée scolaire (ARS)",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Allocation de rentrée scolaire (ARS)",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Allocation de rentrée scolaire (ARS)",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Allocation de rentrée scolaire (ARS)",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "paje": {
+    "fr": {
+      "title": "PAJE : naissance et jeune enfant",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "PAJE : naissance et jeune enfant",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "PAJE : naissance et jeune enfant",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "PAJE : naissance et jeune enfant",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "asf": {
+    "fr": {
+      "title": "Allocation de soutien familial (ASF)",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Allocation de soutien familial (ASF)",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Allocation de soutien familial (ASF)",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Allocation de soutien familial (ASF)",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "css": {
+    "fr": {
+      "title": "Complémentaire santé solidaire (CSS)",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Complémentaire santé solidaire (CSS)",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Complémentaire santé solidaire (CSS)",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Complémentaire santé solidaire (CSS)",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "aah": {
+    "fr": {
+      "title": "Allocation aux adultes handicapés (AAH) / PCH",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Allocation aux adultes handicapés (AAH) / PCH",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Allocation aux adultes handicapés (AAH) / PCH",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Allocation aux adultes handicapés (AAH) / PCH",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "are": {
+    "fr": {
+      "title": "Allocation chômage (ARE)",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Allocation chômage (ARE)",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Allocation chômage (ARE)",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Allocation chômage (ARE)",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "aspa": {
+    "fr": {
+      "title": "Allocation de solidarité aux personnes âgées (ASPA)",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Allocation de solidarité aux personnes âgées (ASPA)",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Allocation de solidarité aux personnes âgées (ASPA)",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Allocation de solidarité aux personnes âgées (ASPA)",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "apa": {
+    "fr": {
+      "title": "Allocation personnalisée d'autonomie (APA)",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Allocation personnalisée d'autonomie (APA)",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Allocation personnalisée d'autonomie (APA)",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Allocation personnalisée d'autonomie (APA)",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "tax": {
+    "fr": {
+      "title": "Crédits et réductions d'impôt",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Crédits et réductions d'impôt",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Crédits et réductions d'impôt",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Crédits et réductions d'impôt",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  },
+  "energy": {
+    "fr": {
+      "title": "Chèque énergie et aides locales",
+      "why": "Cette aide peut être utile selon votre âge, votre famille, votre travail et vos revenus.",
+      "prepare": "Préparez vos revenus et les documents liés à votre situation.",
+      "action": "Demandez à un conseiller de vérifier les conditions."
+    },
+    "en": {
+      "title": "Chèque énergie et aides locales",
+      "why": "This support may help depending on your age, family, work and income.",
+      "prepare": "Prepare income information and relevant documents.",
+      "action": "Ask an adviser to check the conditions."
+    },
+    "es": {
+      "title": "Chèque énergie et aides locales",
+      "why": "Esta ayuda puede servir según tu edad, familia, trabajo e ingresos.",
+      "prepare": "Prepara ingresos y documentos de tu situación.",
+      "action": "Pide a un asesor que compruebe las condiciones."
+    },
+    "ar": {
+      "title": "Chèque énergie et aides locales",
+      "why": "قد تفيدك هذه المساعدة حسب العمر والأسرة والعمل والدخل.",
+      "prepare": "جهز معلومات الدخل والوثائق المتعلقة بوضعك.",
+      "action": "اطلب من مستشار التحقق من الشروط."
+    }
+  }
+}

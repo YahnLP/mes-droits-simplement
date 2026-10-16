@@ -1,5 +1,5 @@
 {
-  "version": "2026.10-demo",
+  "version": "2026.10-indicative-v2",
   "reviewedAt": null,
   "notice": "Référentiel indicatif non validé pour le calcul des montants",
   "aids": [
@@ -12,7 +12,12 @@
       "detail": "Selon logement, ressources des 12 derniers mois, zone, situation familiale et titre de séjour éventuel. Ces aides ne se cumulent pas entre elles.",
       "url": "https://www.service-public.fr/particuliers/vosdroits/F1280",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "rsa",
@@ -23,7 +28,12 @@
       "detail": "Conditions d'âge, résidence, statut et ressources du foyer ; cas particuliers pour les moins de 25 ans et les étudiants.",
       "url": "https://www.mesdroitssociaux.gouv.fr/simulateurs/rsa-pa",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "prime",
@@ -34,7 +44,12 @@
       "detail": "Activité professionnelle et conditions d'âge, de ressources et de résidence ; règles spécifiques pour les étudiants et apprentis.",
       "url": "https://www.service-public.fr/particuliers/vosdroits/N31477",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "famille",
@@ -45,7 +60,12 @@
       "detail": "Au moins deux enfants à charge en métropole, sous réserve des conditions d'âge, de résidence et des ressources.",
       "url": "https://www.service-public.fr/particuliers/vosdroits/F14723",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "ars",
@@ -56,7 +76,12 @@
       "detail": "Selon l'âge et la scolarisation de chaque enfant et les revenus fiscaux de référence.",
       "url": "https://www.service-public.fr/particuliers/vosdroits/F13212",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "paje",
@@ -67,7 +92,12 @@
       "detail": "Prime à la naissance, allocation de base ou aide à la garde selon situation, âge et ressources.",
       "url": "https://www.service-public.fr/particuliers/vosdroits/N156",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "asf",
@@ -78,7 +108,12 @@
       "detail": "Selon l'isolement et la situation de la pension alimentaire ; vérification individualisée indispensable.",
       "url": "https://www.service-public.fr/particuliers/vosdroits/N156",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "css",
@@ -89,7 +124,12 @@
       "detail": "Selon les ressources du foyer des 12 derniers mois et la composition du foyer.",
       "url": "https://www.mesdroitssociaux.gouv.fr/simulateurs/complementaire-sante-solidaire",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "aah",
@@ -100,7 +140,12 @@
       "detail": "Conditions médicales et administratives ; l'AAH et la PCH sont deux dispositifs distincts.",
       "url": "https://www.mesdroitssociaux.gouv.fr/evenements-de-vie/parcours-handicap-adulte",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "are",
@@ -111,7 +156,12 @@
       "detail": "Selon les périodes travaillées, le motif de fin de contrat et les règles d'assurance chômage.",
       "url": "https://www.francetravail.fr",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "aspa",
@@ -122,7 +172,12 @@
       "detail": "Selon âge, résidence, ressources et situation de retraite ; récupération successorale possible.",
       "url": "https://www.lassuranceretraite.fr",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "apa",
@@ -133,7 +188,12 @@
       "detail": "Selon âge et évaluation de la perte d'autonomie (GIR).",
       "url": "https://www.service-public.fr/particuliers/vosdroits/F32794",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "tax",
@@ -144,7 +204,12 @@
       "detail": "Frais de garde, emploi à domicile, dons et autres dépenses selon justificatifs ; aucun montant sans déclaration détaillée.",
       "url": "https://www.impots.gouv.fr",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     },
     {
       "id": "energy",
@@ -155,7 +220,14 @@
       "detail": "Selon revenu fiscal, foyer et règles applicables ; les aides locales nécessitent un référentiel géographique supplémentaire.",
       "url": "https://chequeenergie.gouv.fr",
       "reviewStatus": "to-review",
-      "amountCalculation": false
+      "amountCalculation": false,
+      "certainty": "orientation-only",
+      "effectiveDate": null,
+      "verifiedAt": null,
+      "sourceType": "official-page",
+      "rulesAutomaticallyUpdated": false
     }
-  ]
+  ],
+  "method": "orientation_only",
+  "automaticRulesUpdate": false
 }

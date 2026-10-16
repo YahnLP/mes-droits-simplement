@@ -1,0 +1,17 @@
+const assert=require('node:assert/strict');
+const fs=require('node:fs');global.window={};require('../family-estimator.js');
+const r=JSON.parse(fs.readFileSync('data/family-allowances-2026.json'));
+const f=window.DroitsFamily;
+assert.equal(f.taper(r,3,86000).complement,0);
+assert.equal(f.taper(r,3,87000).total,317.65);
+assert.equal(f.taper(r,3,87000).complement,143.98);
+assert.equal(f.taper(r,2,79981).total,152.17);
+assert.equal(f.taper(r,2,85000).complement,0);
+assert.equal(f.taper(r,2,106605).total,76.05);
+assert.equal(f.taper(r,2,108000).complement,0);
+assert.equal(f.taper(r,3,87000,1).total,393.78);
+assert.equal(f.taper(r,3,87000,1).complement,182.04);
+assert.equal(f.taper(r,3,-1),null);
+assert.equal(f.taper(r,3,87000,1.5),null);
+assert.equal(f.estimateWithAges(r,['2009-02-01','2010-04-01'],87000,'2026-10').estimatedWithTaper>0,true);
+console.log('Complément dégressif : 12 tests réussis');

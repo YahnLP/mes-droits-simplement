@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-16",
+  "status": "official-reference-data",
+  "notice": {
+    "fr": "Aucun montant ne peut encore être calculé automatiquement. Les informations ci-dessous sont des pistes à vérifier avec votre conseiller.",
+    "en": "Amounts cannot yet be calculated automatically. Check these suggestions with your adviser.",
+    "es": "Todavía no se pueden calcular importes automáticamente. Consulte estas orientaciones con su asesor.",
+    "ar": "لا يمكن حساب المبالغ تلقائيًا بعد. تحقق من هذه المعلومات مع مستشارك."
+  },
+  "rates": [
+    {
+      "id": "bmaf_reference_2026",
+      "label": "Base mensuelle de calcul des allocations familiales (BMAF) — référence, pas un versement",
+      "amountEuro": "478.16",
+      "effectiveDate": "2026-04-01",
+      "verifiedAt": "2026-10-16",
+      "sourceUrls": [
+        "https://www.service-public.gouv.fr/particuliers/actualites/A16506",
+        "https://www.legifrance.gouv.fr/"
+      ],
+      "status": "official-reference-single-source",
+      "scope": "France métropolitaine et territoires selon dispositions applicables",
+      "type": "reference-parameter",
+      "note": "Montant de base servant à calculer certaines prestations. Ne correspond pas au montant des allocations familiales versées."
+    }
+  ]
+}

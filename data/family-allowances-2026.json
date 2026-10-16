@@ -1,0 +1,82 @@
+{
+  "id": "allocations_familiales_base_2026",
+  "effectiveDate": "2026-04-01",
+  "incomeYear": 2024,
+  "incomeType": "revenu_net_categoriel",
+  "scope": "metropole",
+  "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13213",
+  "crossCheck": "https://www.caf.fr/professionnels/offres-et-services/accompagnement-des-allocataires/bareme-allocations-familiales",
+  "tiers": {
+    "2": {
+      "limits": [
+        79980,
+        106604
+      ],
+      "amounts": [
+        152.25,
+        76.13,
+        38.07
+      ]
+    },
+    "3": {
+      "limits": [
+        86644,
+        113268
+      ],
+      "amounts": [
+        347.32,
+        173.67,
+        86.83
+      ]
+    },
+    "4": {
+      "limits": [
+        93308,
+        119932
+      ],
+      "amounts": [
+        542.39,
+        271.2,
+        135.6
+      ]
+    },
+    "5": {
+      "limits": [
+        99972,
+        126596
+      ],
+      "amounts": [
+        737.45,
+        368.72,
+        184.37
+      ]
+    }
+  },
+  "caveats": [
+    "Montant de base uniquement : majorations pour âge, situations particulières non calculés.",
+    "Le revenu demandé est le revenu net catégoriel 2024, et non le salaire mensuel actuel.",
+    "Les règles peuvent différer dans les territoires ultramarins.",
+    "Certains montants diffèrent de 0,01 € entre les sources officielles : vérifier le versement auprès de la caisse.",
+    "La majoration d’âge est calculée séparément sur la base des dates de naissance et du mois demandé; le complément dégressif reste exclu.",
+    "Complément dégressif estimé selon l’article D521-1 du code de la sécurité sociale; les cas particuliers ne sont pas couverts."
+  ],
+  "sourceDiscrepancies": {
+    "description": "Les tableaux CAF et Service-Public divergent de 0,01 € sur certains montants. Le résultat affiché est un repère, non une décision.",
+    "examples": [
+      "2 enfants taux minimum : CAF 38,06 €, Service-Public 38,07 €",
+      "3 enfants taux médian : CAF 173,66 €, Service-Public 173,67 €"
+    ]
+  },
+  "ageBonus": {
+    "amounts": [
+      76.13,
+      38.07,
+      19.03
+    ],
+    "birthDateThreshold": "2012-03-01",
+    "effectiveFrom": "2026-03-01",
+    "reference": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13213",
+    "note": "Majoration à partir du mois suivant le 14e anniversaire pour naissance avant le 1 mars 2012, sinon le 18e; non versée à l’aîné dans une famille de deux enfants."
+  },
+  "taperReference": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031085828"
+}

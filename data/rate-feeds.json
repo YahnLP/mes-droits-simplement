@@ -1,0 +1,5 @@
+{
+  "schemaVersion": 1,
+  "feeds": [],
+  "setup": "Only add an official machine-readable HTTPS JSON feed with an explicitly documented schema, field mapping, validity dates and verification method. Never scrape monetary figures from prose."
+}

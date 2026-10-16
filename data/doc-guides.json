@@ -1,0 +1,420 @@
+{
+  "caf": {
+    "fr": {
+      "title": "Lettre de la CAF ou de la MSA",
+      "action": "Cherchez la date du courrier et la date limite pour répondre.",
+      "warning": "Ne donnez jamais votre mot de passe."
+    },
+    "en": {
+      "title": "CAF or MSA letter",
+      "action": "Check whether they ask for a document, a declaration or repayment.",
+      "warning": "If you disagree with a decision, check the appeal deadline."
+    },
+    "es": {
+      "title": "Carta de CAF o MSA",
+      "action": "Comprueba si piden documentos, declaración o devolución de dinero.",
+      "warning": "Si no estás de acuerdo, comprueba el plazo para reclamar."
+    },
+    "ar": {
+      "title": "رسالة من CAF أو MSA",
+      "action": "تحقق هل يطلبون وثيقة أو تصريحًا أو سداد مبلغ.",
+      "warning": "إذا لم توافق على القرار، تحقق من مهلة الاعتراض."
+    }
+  },
+  "impots": {
+    "fr": {
+      "title": "Courrier des impôts",
+      "action": "Vérifiez si c'est un avis, une demande de justificatif ou une relance.",
+      "warning": "Ne payez pas à partir d'un lien reçu par SMS."
+    },
+    "en": {
+      "title": "Tax letter",
+      "action": "Check whether it is a tax bill, request or reminder.",
+      "warning": "Do not pay through a suspicious SMS link."
+    },
+    "es": {
+      "title": "Carta de impuestos",
+      "action": "Comprueba si es un aviso de pago, una solicitud o un recordatorio.",
+      "warning": "No pagues desde un enlace sospechoso por SMS."
+    },
+    "ar": {
+      "title": "رسالة الضرائب",
+      "action": "تحقق هل هي فاتورة ضريبة أو طلب أو تذكير.",
+      "warning": "لا تدفع عبر رابط رسالة نصية مشبوهة."
+    }
+  },
+  "prefecture": {
+    "fr": {
+      "title": "Lettre de la préfecture / séjour",
+      "action": "Identifiez précisément le type de décision.",
+      "warning": "Certains recours ont des délais très courts : n'attendez pas."
+    },
+    "en": {
+      "title": "Prefecture / residence letter",
+      "action": "Find the decision, date received and any deadline.",
+      "warning": "Residence appeals may have short deadlines. Ask for help quickly."
+    },
+    "es": {
+      "title": "Carta de prefectura / residencia",
+      "action": "Busca la decisión, fecha de recepción y plazo.",
+      "warning": "Algunos recursos tienen plazos cortos. Pide ayuda pronto."
+    },
+    "ar": {
+      "title": "رسالة المحافظة / الإقامة",
+      "action": "ابحث عن القرار وتاريخ الاستلام والمهلة.",
+      "warning": "قد تكون مهلة الاعتراض قصيرة. اطلب المساعدة بسرعة."
+    }
+  },
+  "emploi": {
+    "fr": {
+      "title": "Courrier de France Travail",
+      "action": "Repérez si le courrier demande une actualisation, un justificatif ou annonce une décision.",
+      "warning": "Une absence de réponse peut affecter vos droits."
+    },
+    "en": {
+      "title": "France Travail letter",
+      "action": "Check if it concerns an appointment, payment or missing document.",
+      "warning": "Missing an appointment may affect your rights."
+    },
+    "es": {
+      "title": "Carta de France Travail",
+      "action": "Comprueba si trata de una cita, un pago o un documento pendiente.",
+      "warning": "Faltar a una cita puede afectar tus derechos."
+    },
+    "ar": {
+      "title": "رسالة France Travail",
+      "action": "تحقق هل تتعلق بموعد أو دفع أو وثيقة ناقصة.",
+      "warning": "قد يؤثر تفويت موعد على حقوقك."
+    }
+  },
+  "cpam": {
+    "fr": {
+      "title": "Lettre de l'Assurance maladie",
+      "action": "Vérifiez la demande de pièce ou la décision.",
+      "warning": "Ne transmettez pas de données de santé sur un site inconnu."
+    },
+    "en": {
+      "title": "Health insurance letter",
+      "action": "Check whether your health insurance asks for a document or gives a decision.",
+      "warning": "Keep your health information private."
+    },
+    "es": {
+      "title": "Carta del seguro de salud",
+      "action": "Comprueba si solicitan documentos o comunican una decisión.",
+      "warning": "Mantén privados tus datos de salud."
+    },
+    "ar": {
+      "title": "رسالة التأمين الصحي",
+      "action": "تحقق هل يطلبون وثيقة أو يبلغونك بقرار.",
+      "warning": "حافظ على خصوصية معلوماتك الصحية."
+    }
+  },
+  "logement": {
+    "fr": {
+      "title": "Courrier concernant le logement",
+      "action": "Repérez l'expéditeur et la nature exacte du courrier.",
+      "warning": "Un acte de commissaire de justice peut nécessiter une réaction urgente."
+    },
+    "en": {
+      "title": "Housing letter",
+      "action": "Check if it is about rent, repairs, housing support or a notice to leave.",
+      "warning": "Do not ignore a notice to leave your home."
+    },
+    "es": {
+      "title": "Carta de vivienda",
+      "action": "Comprueba si trata de alquiler, reparaciones, ayudas o desalojo.",
+      "warning": "No ignores un aviso para dejar la vivienda."
+    },
+    "ar": {
+      "title": "رسالة السكن",
+      "action": "تحقق هل تتعلق بالإيجار أو الإصلاح أو الدعم أو الإخلاء.",
+      "warning": "لا تتجاهل إشعار مغادرة السكن."
+    }
+  },
+  "justice": {
+    "fr": {
+      "title": "Courrier de justice",
+      "action": "Vérifiez la date de l'audience ou le délai écrit.",
+      "warning": "Certaines échéances sont très courtes."
+    },
+    "en": {
+      "title": "Court or legal letter",
+      "action": "Look for a hearing date and instructions.",
+      "warning": "Ask for legal help promptly. Some deadlines are short."
+    },
+    "es": {
+      "title": "Carta judicial",
+      "action": "Busca la fecha de audiencia y las instrucciones.",
+      "warning": "Pide ayuda jurídica pronto. Algunos plazos son cortos."
+    },
+    "ar": {
+      "title": "رسالة المحكمة",
+      "action": "ابحث عن تاريخ الجلسة والتعليمات.",
+      "warning": "اطلب مساعدة قانونية سريعًا فقد تكون المهل قصيرة."
+    }
+  },
+  "retraite": {
+    "fr": {
+      "title": "Courrier de retraite",
+      "action": "Vérifiez si le courrier demande des pièces ou annonce un calcul.",
+      "warning": "Conservez les justificatifs de carrière."
+    },
+    "en": {
+      "title": "Pension letter",
+      "action": "Check if it is a request, a pension estimate or a decision.",
+      "warning": "Keep documents showing your work history."
+    },
+    "es": {
+      "title": "Carta de jubilación",
+      "action": "Comprueba si es una solicitud, estimación o decisión.",
+      "warning": "Guarda los documentos de tu vida laboral."
+    },
+    "ar": {
+      "title": "رسالة التقاعد",
+      "action": "تحقق هل هي طلب أو تقدير أو قرار.",
+      "warning": "احتفظ بوثائق تاريخ عملك."
+    }
+  },
+  "feuille_soins": {
+    "fr": {
+      "title": "Feuille de soins (papier)",
+      "action": "Vérifiez votre nom, votre numéro de sécurité sociale et la signature demandée.",
+      "warning": "Une feuille de soins n'est pas une ordonnance."
+    },
+    "en": {
+      "title": "Paper healthcare claim form",
+      "action": "Check your details and signatures. Ask your health fund where to send it.",
+      "warning": "This is not a medical prescription."
+    },
+    "es": {
+      "title": "Hoja de asistencia médica",
+      "action": "Comprueba tus datos y firmas. Pregunta al seguro de salud dónde enviarla.",
+      "warning": "No es una receta médica."
+    },
+    "ar": {
+      "title": "ورقة طلب تعويض العلاج",
+      "action": "تحقق من البيانات والتوقيعات واسأل صندوق التأمين أين ترسلها.",
+      "warning": "هذه ليست وصفة طبية."
+    }
+  },
+  "hospitalisation": {
+    "fr": {
+      "title": "Document d'hospitalisation ou de sortie",
+      "action": "Repérez s'il s'agit d'un bulletin de situation, d'un compte rendu, d'une facture ou de consignes de sortie.",
+      "warning": "Un bulletin de situation ne remplace pas toujours un arrêt de travail : vérifiez selon votre situation."
+    },
+    "en": {
+      "title": "Hospital stay or discharge paper",
+      "action": "Check if it is a stay certificate, discharge report or bill. Ask the hospital if unsure.",
+      "warning": "If you work, ask which proof you must give your employer."
+    },
+    "es": {
+      "title": "Documento de hospitalización o alta",
+      "action": "Comprueba si es un justificante, informe de alta o factura. Pregunta al hospital.",
+      "warning": "Si trabajas, pregunta qué justificante debes entregar."
+    },
+    "ar": {
+      "title": "وثيقة دخول أو خروج المستشفى",
+      "action": "تحقق هل هي شهادة إقامة أو تقرير خروج أو فاتورة. اسأل المستشفى.",
+      "warning": "إذا كنت تعمل، اسأل عن الوثيقة المطلوبة لصاحب العمل."
+    }
+  },
+  "arret_travail": {
+    "fr": {
+      "title": "Arrêt de travail / indemnités journalières",
+      "action": "Vérifiez si l'arrêt a été transmis électroniquement ou si vous avez des volets papier à envoyer.",
+      "warning": "Les délais et destinataires dépendent de votre statut (salarié, saisonnier, indépendant, MSA)."
+    },
+    "en": {
+      "title": "Sick leave form",
+      "action": "Check if the doctor sent it online or if you must send paper copies.",
+      "warning": "Deadlines depend on your job and health insurance."
+    },
+    "es": {
+      "title": "Baja médica",
+      "action": "Comprueba si el médico la envió en línea o debes enviar copias.",
+      "warning": "Los plazos dependen de tu empleo y seguro."
+    },
+    "ar": {
+      "title": "وثيقة الإجازة المرضية",
+      "action": "تحقق هل أرسلها الطبيب إلكترونيًا أو عليك إرسال نسخ ورقية.",
+      "warning": "تختلف المهل حسب العمل والتأمين."
+    }
+  },
+  "retraite_carriere": {
+    "fr": {
+      "title": "Relevé de carrière / points retraite",
+      "action": "Comparez les années, employeurs, périodes de chômage et périodes saisonnières avec vos justificatifs.",
+      "warning": "Une période absente ne signifie pas automatiquement que vous n'avez aucun droit."
+    },
+    "en": {
+      "title": "Pension work history",
+      "action": "Compare jobs and years with your payslips. Note missing periods.",
+      "warning": "Seasonal jobs may count. Keep your proof."
+    },
+    "es": {
+      "title": "Historial laboral para jubilación",
+      "action": "Compara trabajos y años con tus nóminas. Anota los períodos ausentes.",
+      "warning": "Los trabajos de temporada pueden contar. Guarda pruebas."
+    },
+    "ar": {
+      "title": "سجل العمل للتقاعد",
+      "action": "قارن الوظائف والسنوات بكشوف الرواتب وحدد الفترات الناقصة.",
+      "warning": "قد تُحتسب الأعمال الموسمية. احتفظ بالإثباتات."
+    }
+  },
+  "notification_pension": {
+    "fr": {
+      "title": "Notification de pension de retraite",
+      "action": "Vérifiez la date de départ, le montant brut, les prélèvements et les périodes prises en compte.",
+      "warning": "Les délais de contestation dépendent de la décision : lisez la notification."
+    },
+    "en": {
+      "title": "Pension award decision",
+      "action": "Check the start date, gross amount and deductions.",
+      "warning": "The amount paid into your bank may be lower than the gross amount."
+    },
+    "es": {
+      "title": "Resolución de pensión",
+      "action": "Comprueba fecha de inicio, importe bruto y descuentos.",
+      "warning": "Lo ingresado en el banco puede ser menor que el bruto."
+    },
+    "ar": {
+      "title": "قرار معاش التقاعد",
+      "action": "تحقق من تاريخ البداية والمبلغ الإجمالي والاقتطاعات.",
+      "warning": "قد يكون المبلغ المحول للبنك أقل من الإجمالي."
+    }
+  },
+  "mutuelle": {
+    "fr": {
+      "title": "Mutuelle / complémentaire santé",
+      "action": "Vérifiez si c'est une attestation, une demande de pièce, un devis ou un refus de remboursement.",
+      "warning": "Un devis n'est pas une facture."
+    },
+    "en": {
+      "title": "Additional health insurance",
+      "action": "Check whether it is proof of coverage, a bill or a refusal.",
+      "warning": "Check your coverage dates before paying."
+    },
+    "es": {
+      "title": "Seguro médico complementario",
+      "action": "Comprueba si es cobertura, factura o rechazo.",
+      "warning": "Comprueba las fechas de cobertura antes de pagar."
+    },
+    "ar": {
+      "title": "التأمين الصحي التكميلي",
+      "action": "تحقق هل هي شهادة تغطية أو فاتورة أو رفض.",
+      "warning": "تحقق من تواريخ التغطية قبل الدفع."
+    }
+  },
+  "facture_sante": {
+    "fr": {
+      "title": "Facture médicale / frais d'hôpital",
+      "action": "Vérifiez le nom de l'établissement, la date des soins et le détail des sommes.",
+      "warning": "Ne payez pas une facture suspecte sans vérifier directement auprès de l'établissement."
+    },
+    "en": {
+      "title": "Medical or hospital bill",
+      "action": "Check the date, care received and amount. Ask the hospital billing office if unsure.",
+      "warning": "If paying is difficult, ask the hospital social worker."
+    },
+    "es": {
+      "title": "Factura médica u hospitalaria",
+      "action": "Comprueba fecha, atención e importe. Pregunta al servicio de facturación.",
+      "warning": "Si no puedes pagar, pide ayuda al servicio social."
+    },
+    "ar": {
+      "title": "فاتورة علاج أو مستشفى",
+      "action": "تحقق من التاريخ والخدمات والمبلغ واسأل قسم الفواتير.",
+      "warning": "إذا تعذر الدفع، اطلب مساعدة الخدمة الاجتماعية."
+    }
+  },
+  "ordonnance": {
+    "fr": {
+      "title": "Ordonnance ou prescription médicale",
+      "action": "Vérifiez la date, votre nom et les indications données par le professionnel de santé.",
+      "warning": "L'application ne vérifie pas les traitements ni les doses."
+    },
+    "en": {
+      "title": "Medical prescription",
+      "action": "Take the prescription to the pharmacy or relevant professional.",
+      "warning": "Ask a doctor or pharmacist if you do not understand the treatment."
+    },
+    "es": {
+      "title": "Receta médica",
+      "action": "Lleva la receta a la farmacia o profesional indicado.",
+      "warning": "Pregunta al médico o farmacéutico si no entiendes el tratamiento."
+    },
+    "ar": {
+      "title": "وصفة طبية",
+      "action": "خذ الوصفة إلى الصيدلية أو المختص.",
+      "warning": "اسأل الطبيب أو الصيدلي إذا لم تفهم العلاج."
+    }
+  },
+  "mdph": {
+    "fr": {
+      "title": "Décision MDPH / handicap",
+      "action": "Repérez le droit accordé ou refusé et sa période de validité.",
+      "warning": "Les démarches et délais de recours varient selon la décision."
+    },
+    "en": {
+      "title": "Disability support decision",
+      "action": "Check what was accepted or refused and until when.",
+      "warning": "Appeal rules depend on the decision."
+    },
+    "es": {
+      "title": "Resolución sobre discapacidad",
+      "action": "Comprueba qué se aceptó o rechazó y hasta cuándo.",
+      "warning": "Las reclamaciones dependen de la decisión."
+    },
+    "ar": {
+      "title": "قرار دعم الإعاقة",
+      "action": "تحقق مما قُبل أو رُفض وتاريخ انتهاء الصلاحية.",
+      "warning": "تختلف قواعد الاعتراض حسب القرار."
+    }
+  },
+  "accident_travail": {
+    "fr": {
+      "title": "Accident du travail / maladie professionnelle",
+      "action": "Identifiez s'il s'agit d'une déclaration, d'une feuille d'accident ou d'une décision de prise en charge.",
+      "warning": "Les démarches peuvent être urgentes et différentes selon votre statut professionnel."
+    },
+    "en": {
+      "title": "Work accident document",
+      "action": "Check if it is a report, medical form or decision. Keep copies.",
+      "warning": "Act quickly: deadlines can matter."
+    },
+    "es": {
+      "title": "Documento de accidente laboral",
+      "action": "Comprueba si es una declaración, hoja médica o decisión. Guarda copias.",
+      "warning": "Actúa pronto: los plazos pueden ser importantes."
+    },
+    "ar": {
+      "title": "وثيقة حادث عمل",
+      "action": "تحقق هل هي بلاغ أو استمارة طبية أو قرار واحتفظ بنسخ.",
+      "warning": "تصرف بسرعة فقد تكون المهل مهمة."
+    }
+  },
+  "autre": {
+    "fr": {
+      "title": "Autre courrier officiel",
+      "action": "Identifiez l'organisme expéditeur.",
+      "warning": "Ne partagez pas de numéro de dossier, titre de séjour ou document personnel ici."
+    },
+    "en": {
+      "title": "Other official document",
+      "action": "Find who sent it, the date and what they ask you to do.",
+      "warning": "If unsure, ask an adviser before paying or sending personal information."
+    },
+    "es": {
+      "title": "Otro documento oficial",
+      "action": "Busca quién lo envió, la fecha y qué te piden.",
+      "warning": "Si dudas, pregunta a un asesor antes de pagar o enviar datos."
+    },
+    "ar": {
+      "title": "وثيقة رسمية أخرى",
+      "action": "ابحث عن المرسل والتاريخ وما هو مطلوب منك.",
+      "warning": "إذا شككت، اسأل مستشارًا قبل الدفع أو إرسال بيانات شخصية."
+    }
+  }
+}

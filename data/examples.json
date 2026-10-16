@@ -1,0 +1,46 @@
+{
+  "fr": {
+    "age": "Exemple : si vous avez 28 ans, écrivez 28.",
+    "children": "Comptez les enfants dont vous vous occupez et qui sont à votre charge.",
+    "income": "Exemple : vous recevez 900 € un mois et 1 300 € le suivant. Donnez une moyenne.",
+    "work": "Un travail saisonnier : vendanges, récoltes, tourisme ou station de ski.",
+    "home": "Si vous dormez chez un ami sans payer, choisissez « Je suis hébergé(e) ».",
+    "stay": "Si vous ne connaissez pas votre situation, choisissez « Je ne sais pas ».",
+    "months": "Exemple : 850 €, puis 0 €, puis 1 200 €. Laissez vide si vous ne savez pas.",
+    "partnerIncome": "Exemple : salaire ou pension de votre conjoint. Laissez vide si vous ne savez pas.",
+    "childAgesText": "Exemple : 2, 7, 15. Séparez les âges par des virgules."
+  },
+  "en": {
+    "age": "Example: if you are 28, enter 28.",
+    "children": "Count the children you care for and support.",
+    "income": "Example: you get €900 one month and €1,300 the next. Enter an average.",
+    "work": "Seasonal work: harvests, tourism or ski resorts.",
+    "home": "If you stay with a friend for free, choose “I stay with someone”.",
+    "stay": "If you are unsure, choose “Other / not sure”.",
+    "months": "Example: €850, then €0, then €1,200. Leave blank if unknown.",
+    "partnerIncome": "Example: your partner’s salary or pension. Leave blank if unsure.",
+    "childAgesText": "Example: 2, 7, 15. Separate ages with commas."
+  },
+  "es": {
+    "age": "Ejemplo: si tienes 28 años, escribe 28.",
+    "children": "Cuenta los niños a tu cargo.",
+    "income": "Ejemplo: cobras 900 € un mes y 1.300 € el siguiente. Indica una media.",
+    "work": "Trabajo de temporada: vendimia, cosecha, turismo o esquí.",
+    "home": "Si vives gratis en casa de un amigo, elige «Me alojan».",
+    "stay": "Si no sabes tu situación, elige «Otra situación / no sé».",
+    "months": "Ejemplo: 850 €, luego 0 €, luego 1.200 €. Déjalo vacío si no sabes.",
+    "partnerIncome": "Ejemplo: sueldo o pensión de su pareja. Déjelo vacío si no sabe.",
+    "childAgesText": "Ejemplo: 2, 7, 15. Separe las edades con comas."
+  },
+  "ar": {
+    "age": "مثال: إذا كان عمرك 28 سنة، اكتب 28.",
+    "children": "احسب الأطفال الذين تعولهم.",
+    "income": "مثال: تحصل على 900 يورو في شهر و1300 في الشهر التالي. اكتب المتوسط.",
+    "work": "عمل موسمي: الحصاد أو السياحة أو منتجعات التزلج.",
+    "home": "إذا كنت تقيم عند صديق مجانًا، اختر «أقيم عند شخص آخر».",
+    "stay": "إذا لم تكن متأكدًا، اختر «وضع آخر / لا أعرف».",
+    "months": "مثال: 850 يورو، ثم صفر، ثم 1200. اترك الحقل فارغًا إذا كنت لا تعرف.",
+    "partnerIncome": "مثال: راتب شريكك أو معاشه. اتركه فارغًا إذا لم تعرف.",
+    "childAgesText": "مثال: 2، 7، 15. افصل بين الأعمار بفواصل."
+  }
+}

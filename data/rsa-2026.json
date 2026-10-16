@@ -1,0 +1,12 @@
+{
+  "periodStart": "2026-04",
+  "periodEnd": "2027-03",
+  "territory": "metropolitan-france",
+  "singleNoChildren": 651.69,
+  "housingDeductionSingle": 78.2,
+  "sources": [
+    "https://www.legifrance.gouv.fr/eli/decret/2026/3/30/2026-220/jo/article_1",
+    "https://caf.fr/allocataires/caf-des-bouches-du-rhone/offre-de-service/vie-professionnelle/le-revenu-de-solidarite-active-rsa"
+  ],
+  "note": "Montants statiques vérifiés lors de la publication, non synchronisés automatiquement."
+}
