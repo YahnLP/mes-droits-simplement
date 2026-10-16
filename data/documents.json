@@ -1,0 +1,393 @@
+[
+  {
+    "id": "caf",
+    "keywords": [
+      "caf",
+      "msa",
+      "allocation",
+      "prestations"
+    ],
+    "title": "Lettre de la CAF ou de la MSA",
+    "actions": [
+      "Cherchez la date du courrier et la date limite pour répondre.",
+      "Regardez si on vous demande un document ou une déclaration.",
+      "Vérifiez la demande dans votre espace officiel ou auprès d'un accueil."
+    ],
+    "warnings": [
+      "Ne donnez jamais votre mot de passe.",
+      "En cas de dette ou de refus, le recours et son délai dépendent de la décision : lisez les voies de recours indiquées."
+    ],
+    "url": "https://www.caf.fr"
+  },
+  {
+    "id": "impots",
+    "keywords": [
+      "impôt",
+      "impots",
+      "fiscal",
+      "taxe",
+      "avis d'imposition"
+    ],
+    "title": "Courrier des impôts",
+    "actions": [
+      "Vérifiez si c'est un avis, une demande de justificatif ou une relance.",
+      "Notez la date limite affichée.",
+      "Vérifiez votre situation depuis votre espace sur impots.gouv.fr."
+    ],
+    "warnings": [
+      "Ne payez pas à partir d'un lien reçu par SMS.",
+      "Un avis et une mise en demeure n'appellent pas la même réponse."
+    ],
+    "url": "https://www.impots.gouv.fr"
+  },
+  {
+    "id": "prefecture",
+    "keywords": [
+      "préfecture",
+      "prefecture",
+      "titre de séjour",
+      "ofii",
+      "oqtf",
+      "étranger"
+    ],
+    "title": "Lettre de la préfecture / séjour",
+    "actions": [
+      "Identifiez précisément le type de décision.",
+      "Notez immédiatement la date de notification et tout délai mentionné.",
+      "Contactez rapidement un professionnel ou une association compétente."
+    ],
+    "warnings": [
+      "Certains recours ont des délais très courts : n'attendez pas.",
+      "Cet outil ne peut pas interpréter une décision individuelle ni donner un délai de recours certain."
+    ],
+    "url": "https://www.service-public.fr/particuliers/vosdroits/N110"
+  },
+  {
+    "id": "emploi",
+    "keywords": [
+      "france travail",
+      "pôle emploi",
+      "pole emploi",
+      "radiation",
+      "allocation chômage"
+    ],
+    "title": "Courrier de France Travail",
+    "actions": [
+      "Repérez si le courrier demande une actualisation, un justificatif ou annonce une décision.",
+      "Notez la date limite et vérifiez votre espace officiel.",
+      "Si vous contestez, suivez les voies de recours indiquées."
+    ],
+    "warnings": [
+      "Une absence de réponse peut affecter vos droits.",
+      "Les délais dépendent de la nature de la décision."
+    ],
+    "url": "https://www.francetravail.fr"
+  },
+  {
+    "id": "cpam",
+    "keywords": [
+      "cpam",
+      "ameli",
+      "assurance maladie",
+      "carte vitale"
+    ],
+    "title": "Lettre de l'Assurance maladie",
+    "actions": [
+      "Vérifiez la demande de pièce ou la décision.",
+      "Utilisez votre compte ameli ou votre caisse.",
+      "Conservez une copie de votre réponse."
+    ],
+    "warnings": [
+      "Ne transmettez pas de données de santé sur un site inconnu."
+    ],
+    "url": "https://www.ameli.fr"
+  },
+  {
+    "id": "logement",
+    "keywords": [
+      "bailleur",
+      "loyer",
+      "expulsion",
+      "commandement de payer",
+      "logement"
+    ],
+    "title": "Courrier concernant le logement",
+    "actions": [
+      "Repérez l'expéditeur et la nature exacte du courrier.",
+      "Notez toutes les dates.",
+      "Demandez rapidement conseil à l'ADIL ou à un professionnel."
+    ],
+    "warnings": [
+      "Un acte de commissaire de justice peut nécessiter une réaction urgente.",
+      "Ne supposez pas que tous les courriers ont le même délai."
+    ],
+    "url": "https://www.anil.org"
+  },
+  {
+    "id": "justice",
+    "keywords": [
+      "tribunal",
+      "convocation",
+      "justice",
+      "huissier",
+      "commissaire de justice"
+    ],
+    "title": "Courrier de justice",
+    "actions": [
+      "Vérifiez la date de l'audience ou le délai écrit.",
+      "Conservez l'enveloppe et le courrier.",
+      "Demandez immédiatement une aide juridique adaptée."
+    ],
+    "warnings": [
+      "Certaines échéances sont très courtes.",
+      "Le guide ne remplace pas un avocat."
+    ],
+    "url": "https://www.justice.fr"
+  },
+  {
+    "id": "retraite",
+    "keywords": [
+      "retraite",
+      "carsat",
+      "assurance retraite",
+      "pension"
+    ],
+    "title": "Courrier de retraite",
+    "actions": [
+      "Vérifiez si le courrier demande des pièces ou annonce un calcul.",
+      "Comparez avec votre relevé de carrière.",
+      "Contactez votre caisse en cas d'erreur."
+    ],
+    "warnings": [
+      "Conservez les justificatifs de carrière."
+    ],
+    "url": "https://www.lassuranceretraite.fr"
+  },
+  {
+    "id": "feuille_soins",
+    "keywords": [
+      "feuille de soins",
+      "feuille de soin",
+      "soins papier",
+      "remboursement consultation"
+    ],
+    "title": "Feuille de soins (papier)",
+    "actions": [
+      "Vérifiez votre nom, votre numéro de sécurité sociale et la signature demandée.",
+      "Si le professionnel n'a pas transmis les soins avec la carte Vitale, envoyez la feuille de soins à votre caisse d'assurance maladie selon ses consignes.",
+      "Gardez une copie ou une photo de la feuille et de vos justificatifs."
+    ],
+    "warnings": [
+      "Une feuille de soins n'est pas une ordonnance.",
+      "Les délais de remboursement et d'envoi dépendent de votre situation : vérifiez auprès de votre caisse."
+    ],
+    "url": "https://www.ameli.fr"
+  },
+  {
+    "id": "hospitalisation",
+    "keywords": [
+      "hospitalisation",
+      "bulletin de situation",
+      "bulletin d'hospitalisation",
+      "sortie d'hôpital",
+      "sortie hopital",
+      "facture hôpital",
+      "facture hopital"
+    ],
+    "title": "Document d'hospitalisation ou de sortie",
+    "actions": [
+      "Repérez s'il s'agit d'un bulletin de situation, d'un compte rendu, d'une facture ou de consignes de sortie.",
+      "Conservez le document ; si vous travaillez, demandez à l'établissement quel justificatif transmettre à votre employeur et à votre caisse.",
+      "Pour une facture ou des frais non compris, contactez le service des admissions ou le service social de l'hôpital."
+    ],
+    "warnings": [
+      "Un bulletin de situation ne remplace pas toujours un arrêt de travail : vérifiez selon votre situation.",
+      "Si le document mentionne un suivi médical ou des symptômes inquiétants, contactez l'équipe soignante ; en urgence appelez le 15 ou le 112."
+    ],
+    "url": "https://www.ameli.fr"
+  },
+  {
+    "id": "arret_travail",
+    "keywords": [
+      "arrêt de travail",
+      "arret de travail",
+      "avis d'arrêt",
+      "indemnités journalières",
+      "indemnites journalieres"
+    ],
+    "title": "Arrêt de travail / indemnités journalières",
+    "actions": [
+      "Vérifiez si l'arrêt a été transmis électroniquement ou si vous avez des volets papier à envoyer.",
+      "Suivez les consignes de votre caisse et de votre employeur sans attendre.",
+      "Conservez les dates d'arrêt, prolongations et justificatifs."
+    ],
+    "warnings": [
+      "Les délais et destinataires dépendent de votre statut (salarié, saisonnier, indépendant, MSA).",
+      "Ne transmettez pas d'informations médicales confidentielles à votre employeur."
+    ],
+    "url": "https://www.ameli.fr"
+  },
+  {
+    "id": "retraite_carriere",
+    "keywords": [
+      "relevé de carrière",
+      "releve de carriere",
+      "trimestres",
+      "points retraite",
+      "agirc-arrco"
+    ],
+    "title": "Relevé de carrière / points retraite",
+    "actions": [
+      "Comparez les années, employeurs, périodes de chômage et périodes saisonnières avec vos justificatifs.",
+      "Notez les périodes absentes ou inexactes.",
+      "Demandez une correction depuis le service officiel de retraite ou auprès de la caisse compétente."
+    ],
+    "warnings": [
+      "Une période absente ne signifie pas automatiquement que vous n'avez aucun droit.",
+      "Gardez bulletins de paie et attestations, notamment pour les emplois saisonniers."
+    ],
+    "url": "https://www.info-retraite.fr"
+  },
+  {
+    "id": "notification_pension",
+    "keywords": [
+      "notification de retraite",
+      "notification de pension",
+      "pension retraite",
+      "liquidation retraite"
+    ],
+    "title": "Notification de pension de retraite",
+    "actions": [
+      "Vérifiez la date de départ, le montant brut, les prélèvements et les périodes prises en compte.",
+      "Comparez la notification à votre demande et à votre carrière.",
+      "Si vous voyez une erreur, contactez la caisse et vérifiez les modalités de contestation indiquées."
+    ],
+    "warnings": [
+      "Les délais de contestation dépendent de la décision : lisez la notification.",
+      "Ne confondez pas montant brut et montant versé sur le compte."
+    ],
+    "url": "https://www.lassuranceretraite.fr"
+  },
+  {
+    "id": "mutuelle",
+    "keywords": [
+      "mutuelle",
+      "complémentaire santé",
+      "complementaire sante",
+      "css",
+      "tiers payant"
+    ],
+    "title": "Mutuelle / complémentaire santé",
+    "actions": [
+      "Vérifiez si c'est une attestation, une demande de pièce, un devis ou un refus de remboursement.",
+      "Regardez les dates de couverture et les garanties indiquées.",
+      "Contactez votre organisme via ses coordonnées officielles si une somme reste à payer."
+    ],
+    "warnings": [
+      "Un devis n'est pas une facture.",
+      "Les informations de santé sont privées : ne les publiez pas sur un site public."
+    ],
+    "url": "https://www.ameli.fr"
+  },
+  {
+    "id": "facture_sante",
+    "keywords": [
+      "facture médicale",
+      "facture medicale",
+      "facture clinique",
+      "forfait journalier",
+      "reste à charge",
+      "reste a charge"
+    ],
+    "title": "Facture médicale / frais d'hôpital",
+    "actions": [
+      "Vérifiez le nom de l'établissement, la date des soins et le détail des sommes.",
+      "Comparez avec vos remboursements Assurance maladie et complémentaire santé.",
+      "Si vous ne pouvez pas payer, contactez rapidement le service social ou la facturation de l'établissement."
+    ],
+    "warnings": [
+      "Ne payez pas une facture suspecte sans vérifier directement auprès de l'établissement.",
+      "Une demande de paiement peut comporter une échéance."
+    ],
+    "url": "https://www.service-public.fr"
+  },
+  {
+    "id": "ordonnance",
+    "keywords": [
+      "ordonnance",
+      "prescription",
+      "médicaments",
+      "medicaments",
+      "examen médical",
+      "examen medical"
+    ],
+    "title": "Ordonnance ou prescription médicale",
+    "actions": [
+      "Vérifiez la date, votre nom et les indications données par le professionnel de santé.",
+      "Présentez l'ordonnance au pharmacien ou au professionnel concerné.",
+      "En cas de doute sur le traitement, demandez une explication au médecin ou au pharmacien."
+    ],
+    "warnings": [
+      "L'application ne vérifie pas les traitements ni les doses.",
+      "En cas d'urgence médicale, appelez le 15 ou le 112."
+    ],
+    "url": "https://www.ameli.fr"
+  },
+  {
+    "id": "mdph",
+    "keywords": [
+      "mdph",
+      "aah",
+      "rqth",
+      "carte mobilité inclusion",
+      "cmi",
+      "handicap"
+    ],
+    "title": "Décision MDPH / handicap",
+    "actions": [
+      "Repérez le droit accordé ou refusé et sa période de validité.",
+      "Notez les documents à fournir et les voies de recours indiquées.",
+      "Demandez de l'aide à la MDPH ou à une permanence d'accès aux droits si besoin."
+    ],
+    "warnings": [
+      "Les démarches et délais de recours varient selon la décision.",
+      "Ne partagez pas publiquement votre dossier médical."
+    ],
+    "url": "https://www.monparcourshandicap.gouv.fr"
+  },
+  {
+    "id": "accident_travail",
+    "keywords": [
+      "accident du travail",
+      "maladie professionnelle",
+      "déclaration d'accident",
+      "declaration accident"
+    ],
+    "title": "Accident du travail / maladie professionnelle",
+    "actions": [
+      "Identifiez s'il s'agit d'une déclaration, d'une feuille d'accident ou d'une décision de prise en charge.",
+      "Vérifiez les dates et les documents demandés par la caisse ou l'employeur.",
+      "Conservez toutes les pièces et demandez conseil rapidement si une décision est contestée."
+    ],
+    "warnings": [
+      "Les démarches peuvent être urgentes et différentes selon votre statut professionnel.",
+      "Ce guide ne détermine pas la reconnaissance d'un accident ou d'une maladie."
+    ],
+    "url": "https://www.ameli.fr"
+  },
+  {
+    "id": "autre",
+    "keywords": [],
+    "title": "Autre courrier officiel",
+    "actions": [
+      "Identifiez l'organisme expéditeur.",
+      "Repérez la date de réception, la demande et la date limite.",
+      "Contactez l'organisme via son site officiel si vous avez un doute."
+    ],
+    "warnings": [
+      "Ne partagez pas de numéro de dossier, titre de séjour ou document personnel ici.",
+      "Si une sanction ou une audience est annoncée, demandez rapidement conseil."
+    ],
+    "url": "https://www.service-public.fr"
+  }
+]

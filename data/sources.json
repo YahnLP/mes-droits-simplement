@@ -1,0 +1,10 @@
+[
+ {"id":"rsa","title":"RSA","url":"https://www.service-public.fr/particuliers/vosdroits/F19778"},
+ {"id":"prime","title":"Prime d'activité","url":"https://www.service-public.fr/particuliers/vosdroits/F2882"},
+ {"id":"logement","title":"Aides au logement","url":"https://www.service-public.fr/particuliers/vosdroits/F12006"},
+ {"id":"famille","title":"Allocations familiales","url":"https://www.service-public.fr/particuliers/vosdroits/F13213"},
+ {"id":"ars","title":"Allocation de rentrée scolaire","url":"https://www.service-public.fr/particuliers/vosdroits/F1878"},
+ {"id":"css","title":"Complémentaire santé solidaire","url":"https://www.service-public.fr/particuliers/vosdroits/F10027"},
+ {"id":"etrangers","title":"Droits et démarches des étrangers","url":"https://www.service-public.fr/particuliers/vosdroits/N19804"},
+ {"id":"impots","title":"Impôts","url":"https://www.impots.gouv.fr/particulier"}
+]
